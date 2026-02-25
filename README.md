@@ -1,4 +1,4 @@
-RobotTask-6-1. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application. 
+RobotTask-6-1. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
 
 RobotTask-6-1. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
 
