@@ -1,10 +1,10 @@
 RobotTask-6-1. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
-First robot environmet:
-The robot's field is 3 cells long and 3 cells wide. It has blue walls around its perimeter.
-A corridor is created using a square measuring 2 cells long and 2 cells wide, in which the robot is located.
-Second robot environmet:
-The robot's field is 4 cells long and 4 cells wide. It has blue walls around its perimeter.
-A corridor is created using a square measuring 3 cells long and 3 cells wide, in which the robot is located.
+First robot environment:
+The robot's field is 5 cells long and 4 cells wide. It has blue walls around its perimeter.
+A corridor in which the robot is located is created by two rectangles measuring 2 cells long and 3 cells wide, located on the left and right.
+Second robot environment:
+The robot's field is 5 cells long and 3 cells wide. It has blue walls around its perimeter.
+A corridor in which the robot is located is created by a rectangle on the left measuring 1 cell long and 2 cells wide and a rectangle on the right measuring 3 cells long and 2 cells wide.
 The robot's starting position is marked with a blue square. 
 The robot's final position is marked with a red house. 
 The task is to move the robot from its starting position to its final position. (see figures). 
